@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--InputFields-->
+    <style name="InputField" parent="Widget.AppCompat.EditText"/>
+
+    <!--Buttons-->
+    <style name="Button.Flat" parent="Base.Widget.AppCompat.Button.Borderless"/>
+
+    <!--Labels-->
+    <style name="Label" parent="TextAppearance.AppCompat"/>
+
+    <!--Layouts-->
+</resources>
